@@ -1,0 +1,19 @@
+{
+    "name": "@logicfenx/buying-a-used",
+    "version": "1.0.0",
+    "description": "Paquete NPM correspondiente a buying-a-used",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/logicfenx/buying-a-used.git"
+    },
+    "author": "Logicfenx",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://isproto.com/en/buying-used-chevy-dealership/"
+    },
+    "homepage": "https://isproto.com/en/buying-used-chevy-dealership/"
+}
